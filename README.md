@@ -7,6 +7,8 @@ Seeking to contribute in AI field and emerging technologies, to make creative so
 
 I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.
 
+**“Learning is the only thing the mind never exhausts, never fears, and never regrets” Leonardo da Vinci**
+
                                     You can find me on    👇🏻  👇🏻
 <p align="center">
 <a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/">
