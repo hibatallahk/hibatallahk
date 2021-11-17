@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 👩🏻‍💻 
 
-# Who Am I? 👩🏻‍💻 Qui suis-je? 👩🏻‍💻
 I'm a Data Scientist, deeply passionate about data world 🤓, a big fan of the scientific research too 🧐
 
 Seeking to contribute in AI field and emerging technologies, to make creative solutions in different domains' applications.
