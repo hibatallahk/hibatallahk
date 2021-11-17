@@ -8,7 +8,7 @@ Seeking to contribute in AI field and emerging technologies, to make creative so
 I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.
 
 You can find me on 👇🏻
-<p align="right">
+<p align="center">
 <a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/hibatallahkab">
