@@ -1,6 +1,6 @@
-### Hi there 👋 👩🏻‍💻 
+### Hi there 🌱 👩🏻‍💻 
 
-I'm a Data Scientist, passionate about data world 🤓, a big fan of the scientific research too 🧐
+I'm a Data Scientist, passionate about data world 🌐, a big fan of the scientific research too 🦉
 
 Seeking to contribute in AI field and emerging technologies, to make creative solutions in different domains' applications.
 
