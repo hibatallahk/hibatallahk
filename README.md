@@ -8,7 +8,7 @@ I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big 
 
 **“Learning is the only thing the mind never exhausts, never fears, and never regrets” Leonardo da Vinci**
 
-                                     Join me on   👇🏻     👇🏻  🤓
+                                     Join me on       👇🏻     👇🏻  🤓
 <p align="center">
 <a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
