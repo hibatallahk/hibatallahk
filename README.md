@@ -6,7 +6,7 @@ Seeking to contribute in AI field and emerging technologies, to make creative so
 
 I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.
 
-**““Knowledge always liberates.” ― Osho**
+**“Knowledge always liberates.” ― Osho**
 
                                              Join me on  👇🏻     👇🏻  🤓
 <p align="center">
