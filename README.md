@@ -17,15 +17,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open sources and research projects
 - 🤔 I’m looking for help with AWS 
 - 💬 Ask me about anything
-- 📫 How to reach me: <p align="center">
-<a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://twitter.com/hibatallahkab">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-</p>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a><a href="https://twitter.com/hibatallahkab"> <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 - 😄 Pronouns: She/Her
 - 🛼 Fun fact: Let's Roll!!
--->
 
-
-**“Knowledge always liberates.” ― Osho**
+                                      **“Knowledge always liberates.” ― Osho**
