@@ -10,7 +10,7 @@ I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big 
   <img width="400" src="https://media.giphy.com/media/gByaPVkDLzCBIj0SNj/giphy.gif">
 </p>
 
-- 🔭 I’m currently working on AI applications in the finance industry
+- 🔭 I’m currently working on AI applications in the financial sector
 - 🌱 I’m currently learning many many things 😄
 - 👯 I’m looking to collaborate on Open sources and research projects
 - 🤔 I’m looking for help with AWS 
