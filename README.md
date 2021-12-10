@@ -1,15 +1,11 @@
 ### Hi there 🌱
 
 <h4 align="center"><samp> I'm Hibatallah, a Data Scientist, passionate about data world 👩🏻‍💻, a big fan of the scientific research too 🦉
-
 Seeking to contribute in AI field and emerging technologies, to make creative solutions in different domains' applications.
-
 I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.</samp></h4>
-
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/KyMbetn7zsA5Q2nvi9/giphy.gif">
 </p>
-
 - 🔭 I’m currently working on AI applications in the financial sector
 - 🌱 I’m currently learning many many things 😄
 - 👯 I’m looking to collaborate on Open sources and research projects
