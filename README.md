@@ -7,7 +7,7 @@ Seeking to contribute in AI field and emerging technologies, to make creative so
 I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.</samp></h4>
 
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/gByaPVkDLzCBIj0SNj/giphy.gif">
+  <img width="400" src="https://media.giphy.com/media/KyMbetn7zsA5Q2nvi9/giphy.gif">
 </p>
 
 - 🔭 I’m currently working on AI applications in the financial sector
