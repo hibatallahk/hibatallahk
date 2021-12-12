@@ -15,5 +15,5 @@ I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big 
 - 🌱 2022 Goals: GCP/AWS
 - 😄 Pronouns: She/Her
 - 🦉 Favourite quote: "Knowledge always liberates.” ― Osho
-- 🛼 Fun fact: I love Music and Rollers Skates 🎶!!
+- 🛼 Fun fact: I love Music and Roller Skates 🎶!!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/hibatallah-kabbaj-462805159/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a><a href="https://twitter.com/hibatallahkab"> <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
