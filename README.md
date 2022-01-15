@@ -10,7 +10,6 @@ I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big 
 </p>
 
 
-- 🔭 I’m currently working on AI applications in the financial sector
 - 👯 I’m looking to collaborate on Open sources and research projects
 - 🌱 2022 Goals: GCP/AWS
 - 😄 Pronouns: She/Her
