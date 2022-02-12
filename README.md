@@ -4,7 +4,7 @@
   
 Seeking to contribute in AI field and emerging technologies, to make creative solutions in different domains' applications.
   
-I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data... I also like discovering and learning about VR.</samp></h4>
+I'm open to all sorts of projects that involve ML, Computer vision, NLP and Big Data.</samp></h4>
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/Js25AUQgqCuUEnh1fJ/giphy.gif">
 </p>
