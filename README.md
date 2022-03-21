@@ -1,6 +1,6 @@
 ### Hi there 🌱
 
-<h4 align="center"><samp> I'm Hibatallah, a Data Scientist, passionate about data world 👩🏻‍💻, a big fan of the scientific research too 🦉
+<h4 align="center"><samp> I'm Hibatallah, a PhD Student, passionate about data world 👩🏻‍💻, a big fan of the scientific research too 🦉
   
 Seeking to contribute in AI field and emerging technologies, to make creative solutions in different domains' applications.
   
