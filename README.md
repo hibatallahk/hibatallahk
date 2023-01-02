@@ -11,7 +11,7 @@ I'm open to all sorts of projects that involve ML, Federated Learning, Distibute
 
 
 - 👯 I’m looking to collaborate on Open sources and research projects
-- 🌱 2022 Goals: Open sources and research contributions
+- 🌱 2023 Goals: Open sources and research contributions
 - 😄 Pronouns: She/Her
 - 🦉 Favourite quote: "Knowledge always liberates.” ― Osho
 - 🛼 Fun fact: I love Music and Roller Skates 🎶!!
